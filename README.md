@@ -27,7 +27,7 @@
 - Curso Completo de Python na [Softgraf Cursos avançados](https://softgraf.eadplataforma.app/).
 - Curso Frontend e Introdução ao Backend na StepOne com [Adriana Saty](https://www.youtube.com/@AdrianaSaty).
 
-#### Você também pode de: 
+#### Você também pode gostar de: 
 - [Programação: guia completo sobre a área!](https://blog.betrybe.com/tecnologia/aprenda-tudo-sobre-programacao/)
 
         
