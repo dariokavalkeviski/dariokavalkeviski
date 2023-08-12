@@ -1,9 +1,11 @@
 ### Oi, meu nome é Dario
+<hr>
 - Cursando Analise e Desenvolvimento de Sistemas.
-
-- 🔭 Desenvolvedor Frontend e Backend.
+<hr>
+- Desenvolvedor Frontend e Backend.
+<hr>
     
-- 🌱 Atualmente focado em:
+- Atualmente focado em:
 
 <div diplay="inline">
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
