@@ -22,6 +22,9 @@
     <img src="https://camo.githubusercontent.com/da5e2b6ad7301c79c9227c03e9dd984a60dedbf184caf55438413d1ebdaa73c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3833364646463f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
 </a>
 
+#### Você também pode de: 
+- [Programação: guia completo sobre a área!](https://blog.betrybe.com/tecnologia/aprenda-tudo-sobre-programacao/)
+
         
 
     
