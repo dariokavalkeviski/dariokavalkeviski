@@ -1,9 +1,4 @@
 ### Oi, meu nome é Dario
-
-- Cursando Analise e Desenvolvimento de Sistemas.
-
-- Desenvolvedor Frontend e Backend.
-
     
 - Atualmente focado em:
 
