@@ -13,7 +13,7 @@
 #### Você pode me encontrar em:
 
 <a href="https://www.linkedin.com/in/dario-kavalkeviski"/>
-    <img <img width="100" height="30" 
+    <img <img width="100" height="100" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
