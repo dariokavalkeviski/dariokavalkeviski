@@ -22,6 +22,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-origin
 - Curso Completo de Python na [Softgraf Cursos avançados](https://softgraf.eadplataforma.app/)
 - Curso Frontend e Introdução ao Backend na <strong>StepOne</strong> com [Adriana Saty](https://www.youtube.com/@AdrianaSaty)
 - Cursos online [Udemy](https://www.udemy.com/)
+- Cursando Análise e Desenvolvimento de Sistemas na {UniCesumar](https://venhaparaunicesumar.com.br).
   <hr>
 
 #### Você também pode gostar de: 
