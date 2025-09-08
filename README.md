@@ -1,52 +1,49 @@
-### Oi, meu nome é Dario
-    
-- Atualmente focado em:
+<h2 align="left">Sobre mim</h2>
 
-<div diplay="inline">
-    <img width="100" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img width="100" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img width="100" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img width="100" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="100" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-    
-</div>  
-<hr>
+###
 
-#### Você pode me encontrar em:
+<p align="left"># 👋 Olá, eu sou o Dario!<br><br>🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniCesumar - Ponta Grossa**.<br>💻 Apaixonado por tecnologia, programação e inovação.<br>🚀 Explorando o universo do **desenvolvimento web** e da **análise de dados** para criar soluções que transformam ideias em realidade.<br><br>## 🚀 Tecnologias e Ferramentas que estou aprendendo:<br><br>* 🌐 **HTML | CSS | JavaScript** → Construindo interfaces modernas e interativas<br>* 🗄️ **SQL** → Estruturando e organizando dados<br>* 📊 **Excel | Power BI** → Transformando dados em insights visuais e estratégicos<br>* 🤖 **Inteligência Artificial** → Explorando o futuro da automação e inovação<br><br>## ✨ Sobre mim<br><br>Sou curioso por natureza e acredito que tecnologia não é apenas código, mas **ferramenta para mudar vidas**. Estou sempre em busca de conhecimento, seja construindo sistemas, analisando dados ou explorando o mundo da IA.<br><br>📌 Meu objetivo é **crescer como desenvolvedor e analista de dados**, unindo criatividade, lógica e visão estratégica para entregar resultados de impacto.<br><br>📬 Vamos conectar? Adoro trocar ideias sobre programação, aviação (minha paixão paralela ✈️) e tudo que envolva inovação!</p>
 
-<a href="https://www.linkedin.com/in/dario-kavalkeviski"/>
-    <img <img width="100" height="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+###
 
-#### Cursos:
+<h2 align="left">Tecnologias</h2>
 
-- Curso Completo de Python na [Softgraf Cursos avançados](https://softgraf.eadplataforma.app/)
-- Curso Frontend e Introdução ao Backend na <strong>StepOne</strong> com [Adriana Saty](https://www.youtube.com/@AdrianaSaty)
-- Cursos online [Udemy](https://www.udemy.com/)
-- Cursando Análise e Desenvolvimento de Sistemas na [UniCesumar](https://venhaparaunicesumar.com.br)
-  <hr>
+###
 
-#### Você também pode gostar de: 
-- [Programação: guia completo sobre a área!](https://blog.betrybe.com/tecnologia/aprenda-tudo-sobre-programacao/)
-- [Inteligência Artificial: o que é e como funciona](https://online.pucrs.br/blog/inteligencia-artificial?utm_source=google&utm_medium=cpc&&hsa_cam=14586991824&hsa_grp=&utm_term=&hsa_ad=&utm_term=&utm_medium=ppc&utm_campaign=%5BMP%5D+CONV+-++Institucional+e+%C3%81reas&utm_source=adwords&hsa_ver=3&hsa_cam=14586991824&hsa_kw=&hsa_acc=8414866364&hsa_net=adwords&hsa_grp=&hsa_mt=&hsa_ad=&hsa_tgt=&hsa_src=x&gad=1&gclid=CjwKCAjw29ymBhAKEiwAHJbJ8rK2Ln1DfsmhwqPtOBLGUEiBHOOx2vCCyKddXJY6-RQHAONHF-teDBoCk-MQAvD_BwE)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
 
-        
+###
 
-    
-          
+<h2 align="left">Estatísticas</h2>
 
-          
+###
 
-  
-          
- 
-          
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dariokavalkeviski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dariokavalkeviski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dariokavalkeviski&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
+<h2 align="left">Redes Sociais</h2>
 
+###
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-
-
-
+###
