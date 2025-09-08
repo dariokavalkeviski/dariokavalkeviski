@@ -1,4 +1,4 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">🙋‍♂️ Sobre mim</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">🛠️ Tecnologias</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">📊 Estatísticas</h2>
 
 ###
 
@@ -36,14 +36,17 @@
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+<h2 align="left">🌐 Conecte-se comigo</h2>
 
 ###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/dario-kavalkeviski" target="_blank"></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/dario.kav" target="_blank"></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.youtube.com/@sdariok" target="_blank"></a></a>
 </div>
 
 ###
