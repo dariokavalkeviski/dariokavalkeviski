@@ -4,14 +4,12 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação | ADS UniCesumar | HTML · CSS · JS · Python · SQL**
 
-Ponta Grossa, PR — Brasil
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dario-kavalkeviski)
-[!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/dariokavalkeviski)
+
 
 </div>
 
-\---
+
 
 ## Sobre mim
 
@@ -61,6 +59,6 @@ Aplicação single-page para registro de atendimentos do programa de equoterapia
 
 Aberto a conversas sobre projetos freelance, oportunidades na área de tecnologia ou trocas sobre a transição de carreira segurança pública → TI.
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/dario-kavalkeviski)
-[!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/dariokavalkeviski)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dario-kavalkeviski)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/dariokavalkeviski)
 
