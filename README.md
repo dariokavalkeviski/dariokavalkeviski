@@ -55,4 +55,4 @@ Crescer como **desenvolvedor e analista de dados**, unindo criatividade, lógica
 
 <br>
 
-💬 Adoro trocar ideias sobre programação, aviação ✈️ e tudo que envolva inovação!
+💬 Adoro trocar ideias sobre programação, aviação e simulação de voo ✈️ e tudo que envolva inovação!
