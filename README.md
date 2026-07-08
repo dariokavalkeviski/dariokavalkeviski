@@ -37,15 +37,6 @@ Depois de **30 anos de carreira na Polícia Militar do Paraná**, decidi transfo
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariokavalkeviski&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&locale=pt-br&hide_border=false" height="150" alt="estatísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dariokavalkeviski&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="linguagens" />
-</div>
-
----
-
 ## 🎯 Objetivo
 
 Crescer como **desenvolvedor e analista de dados**, unindo criatividade, lógica e a visão estratégica de quem passou 30 anos resolvendo problemas sob pressão. Aberto a **projetos freelance** e oportunidades na área de tecnologia.
