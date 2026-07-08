@@ -23,19 +23,6 @@ Depois de **30 anos de carreira na Polícia Militar do Paraná**, decidi transfo
 
 ---
 
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🐎 **Relatório Equoterapia** | Sistema real em produção para relatórios de sessões de equoterapia da PMPR, com histórico, estatísticas e banco de dados na nuvem | HTML, CSS, JS, Supabase |
-| 🚨 [registro-ocorrencias](https://github.com/dariokavalkeviski/registro-ocorrencias) | Sistema de registro de ocorrências policiais via terminal — cadastro, busca e encerramento com persistência em CSV | Python |
-| 💰 [controle-de-gastos-pessoais](https://github.com/dariokavalkeviski/controle-de-gastos-pessoais) | Planilha interativa de controle financeiro que roda direto no navegador, sem instalação | HTML, CSS, JS |
-| 🦷 [landing-page-odontocare](https://github.com/dariokavalkeviski/landing-page-odontocare-premium) | Landing page focada em conversão para consultórios odontológicos | HTML, CSS, JS |
-| 🧠 [psicologia-landing](https://github.com/dariokavalkeviski/psicologia-landing) | Landing page para psicólogos com agendamento via WhatsApp | HTML, CSS, JS |
-| 📋 [sistema-cadastro-clientes](https://github.com/dariokavalkeviski/sistema-cadastro-clientes-fornecedores) | Sistema web de gerenciamento de clientes e fornecedores | Flask, Python |
-
----
-
 ## 🛠️ Tecnologias
 
 <div align="left">
