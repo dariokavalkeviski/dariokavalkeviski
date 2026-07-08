@@ -1,11 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Dario Kavalkeviski</h1>
+<h1 align="left">👋 Olá, meu nome é Dario Kavalkeviski</h1>
 
-<p align="center">
+<p align="left">
   <b>Desenvolvedor Web em transição de carreira | 30 anos de Segurança Pública → Tecnologia</b>
-</p>
-
-<p align="center">
-  📍 Ponta Grossa, Paraná — Brasil
 </p>
 
 ---
